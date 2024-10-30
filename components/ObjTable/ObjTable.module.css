@@ -1,0 +1,6 @@
+.objtable {
+    border-collapse: collapse;
+    & td {
+        border: 1px #000 solid;
+    }
+}
